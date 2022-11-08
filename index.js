@@ -4,7 +4,7 @@ const index = () => {
     return (
         <div>
             testing..
-            
+            home title: 
         </div>
     );
 };

@@ -1,0 +1,62 @@
+[
+    {
+        "service_id": "1",
+        "price": "80",
+        "task1": "Washing the plants",
+        "task2": "Cleaning the dry leaf",
+        "task3": "Trimming the grass",
+        "name": "Garden Maintainance",
+        "description":"I start with trimming the grass to make sure every things is ncie and trimmer, next i proceed to cleaning the dry leaf and dead trees and branches on ground, and lastly washing the plants and making them look healthy again. A good garden speaks a lot about a person's personality.",
+        "picture": "https://media.istockphoto.com/vectors/male-bearded-gardener-mows-the-grass-with-a-lawn-mower-vector-design-vector-id1202940021?b=1&k=20&m=1202940021&s=612x612&w=0&h=9YRfKhJwmzTZkIgbz-Y5BMN0mg78t6VQQDLS1PG6KA0="
+    },
+    {
+        "service_id": "2",
+        "price": "79",
+        "task1": "Window Cleaning",
+        "task2": "Interior Cleaning",
+        "task3": "Car Body cleaning",
+        "name": "Car wash",
+        "description": "A great car wash is proivded with high level of care. Making sure your car looks spotless and beautiful. A deep clean in provide inside the car to make the car feel fresh oout of the garage. Get your car as new as it was before. ",
+        "picture": "https://static.vecteezy.com/system/resources/thumbnails/004/680/160/small_2x/car-wash-service-flat-design-illustration-workers-washing-automobile-using-sponges-soap-and-water-for-background-poster-or-banner-vector.jpg"
+    },
+    {
+        "service_id": "3",
+        "price": "50",
+        "task1": "Fixing the roof",
+        "task2": "Cleaning rain water pipe",
+        "task3": "Cleaning the chimney",
+        "name": "Roof Maintainance",
+        "description": "Initally i begin with fixing the roof and replaceing all the faulty parts on the roof. Then I proceed on cleaning the rain water pipe so no dirty water is stuck in the pipe. and lastly roof chimney will be cleaned and fixed. A good roof makes the life inside the house peaceful and comfortable.",
+        "picture": "https://static.vecteezy.com/system/resources/thumbnails/004/530/806/small_2x/safe-roof-cleaning-flat-color-illustration-clearing-rooftop-while-holding-service-worker-man-on-ladder-with-snow-remover-tool-2d-cartoon-characters-with-landscape-on-background-vector.jpg"
+    },
+    {
+        "service_id": "4",
+        "price": "29",
+        "task1": "Cleaning the home floor",
+        "task2": "Cleaning the top ceiling ",
+        "task3": "Complete interior cleaning",
+        "name": "Interior Cleaning",
+        "description": "All the corners of the floor is first cleaned with cleaning chemical to kill all the bacrteria and everything is wiped with clean soap and water.The ceilings are also cleaned making sure there is no web in the corners. Making the home interior fresh and new. A beautiful interiror.",
+        "picture": "https://static.vecteezy.com/ti/vecteur-libre/p1/5860249-femme-laver-le-sol-pour-le-nettoyage-de-printemps-concept-gratuit-vectoriel.jpg"
+    },
+    {
+        "service_id": "5",
+        "price": "95",
+        "task1": "Door fixing and replacement.",
+        "task2": "Window fixing and replacement.",
+        "task3": "Cleaning windows and doors.",
+        "name": "Windows & Door Maintainance",
+        "description": "All the windows and doors are checked. All the faulty doors and windows are replace and fixed. All the doors and windows are cleaned and made spotless. Making sure you have a great view and air. Clean doors and windows make the first impression of a house.",
+        "picture": "https://media.istockphoto.com/id/494384200/vector/window-washer.jpg?s=612x612&w=0&k=20&c=0r8-nMmHsmeHIc9GOQVi0y_w7W5E_cauJmIdv6djXDk="
+    },
+    {
+        "service_id": "6",
+        "price": "50",
+        "task1": "Cleaning garage drive way",
+        "task2": "Cleaning garage interior",
+        "task3": "Organizing the garage equipments",
+        "name": "Home Garage Maintainance",
+        "description": "All the garage equipments cleaned and organized make sure everything is close toy our hand when needed. Garage drive way is fixed by filling all the cracks and cleaned making sure the drive way looks nice and clean and makes your car look good when its parked. A clean garage and drive way makes your car healthy.",
+        "picture": "https://media.istockphoto.com/vectors/garage-cleaning-flat-color-vector-illustration-vector-id1303714926?k=20&m=1303714926&s=612x612&w=0&h=eWLVG5879y3pvEYR2w-5fx0ClXwPAPE1QlL7Csy3arI="
+    }
+]
